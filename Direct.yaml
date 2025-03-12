@@ -1,6 +1,7 @@
 payload:
 #自定义规则
   - DOMAIN-SUFFIX,epicgames.com #Epic
+  - DOMAIN-SUFFIX,unrealengine.com #Epic
   - DOMAIN-SUFFIX,pc528.net,DIRECT #不忘初心播客
   - DOMAIN-SUFFIX,pixpinapp.com,DIRECT #PixPin
   - DOMAIN-SUFFIX,windowsupdate.com #Win系统更新不走代理以免浪费流量
