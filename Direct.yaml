@@ -1,5 +1,8 @@
 payload:
 #自定义规则
+  - DOMAIN-SUFFIX,xtls.rprx.vision #国际
+  - DOMAIN-SUFFIX,3e07ca42-9718-492b-bc7a-343886035949.qcjs.skin #倾城
+  - DOMAIN-SUFFIX,sub2.feiyue2.buzz #飞跃
   - DOMAIN-SUFFIX,epicgames.com #Epic
   - DOMAIN-SUFFIX,unrealengine.com #Epic
   - DOMAIN-SUFFIX,pc528.net,DIRECT #不忘初心播客
