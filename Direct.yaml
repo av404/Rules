@@ -1,5 +1,7 @@
 payload:
 #自定义规则
+  - DOMAIN-SUFFIX,android.com #模拟器
+  - DOMAIN-SUFFIX,time.android.com #模拟器
   - DOMAIN-SUFFIX,xtls.rprx.vision #国际
   - DOMAIN-SUFFIX,3e07ca42-9718-492b-bc7a-343886035949.qcjs.skin #倾城
   - DOMAIN-SUFFIX,sub2.feiyue2.buzz #飞跃
