@@ -1,5 +1,8 @@
 payload:
 #自定义规则
+
+  - IP-CIDR,10.0.0.0/24,DIRECT,no-resolve #局域网地址
+
   - DOMAIN-SUFFIX,android.com #模拟器
   - DOMAIN-SUFFIX,time.android.com #模拟器
   - DOMAIN-SUFFIX,xtls.rprx.vision #国际
