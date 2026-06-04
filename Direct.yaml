@@ -14,5 +14,9 @@ payload:
   - DOMAIN-SUFFIX,pixpinapp.com,DIRECT #PixPin
   - DOMAIN-SUFFIX,windowsupdate.com #Win系统更新不走代理以免浪费流量
 
+  - DOMAIN-SUFFIX,comic18j-lodo.cc #禁漫内地镜像1
+  - DOMAIN-SUFFIX,comic18j-robo.net #禁漫内地镜像2
+  - DOMAIN-SUFFIX,comic18j-robo.club #禁漫内地镜像3
+
 #classical形式的rule-provider支持路由规则的全部类型 (rule-set/sub-rule 除外)
 #可用规则格式如下：https://wiki.metacubex.one/config/rules/
