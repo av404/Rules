@@ -18,5 +18,7 @@ payload:
   - DOMAIN-SUFFIX,comic18j-robo.net #禁漫内地镜像2
   - DOMAIN-SUFFIX,comic18j-robo.club #禁漫内地镜像3
 
+  - DOMAIN-SUFFIX,bgm.tv #bangumi
+
 #classical形式的rule-provider支持路由规则的全部类型 (rule-set/sub-rule 除外)
 #可用规则格式如下：https://wiki.metacubex.one/config/rules/
